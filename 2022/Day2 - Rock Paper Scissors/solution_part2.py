@@ -1,5 +1,5 @@
 # Settings
-inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day2 - Rock Paper Scissors/input.txt'
+inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day2 - Rock Paper Scissors/input.in'
 wonMessage = "Result: WIN!"
 drawMessage = "Result: It's a draw, both won!"
 defeatMessage = "Result: Defeat!"

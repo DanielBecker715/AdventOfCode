@@ -1,5 +1,5 @@
 # Settings
-inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day3 - Rucksack Reorganization/input.txt'
+inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day3 - Rucksack Reorganization/input.in'
 
 foundLetters = []
 

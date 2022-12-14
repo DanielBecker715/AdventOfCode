@@ -1,5 +1,5 @@
 # Settings
-inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day1 - Calorie Counting/input.txt'
+inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day1 - Calorie Counting/input.in'
 
 elfCounter = 0
 arr = []

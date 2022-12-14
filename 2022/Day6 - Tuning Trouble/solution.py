@@ -1,5 +1,5 @@
 # Settings
-inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day6 - Tuning Trouble/input.txt'
+inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day6 - Tuning Trouble/input.in'
 
 with open(inputPath, 'r', encoding="utf-8") as file:
     data = file.read()

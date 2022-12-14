@@ -1,5 +1,5 @@
 # Settings
-inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day4 - Camp Cleanup/input.txt'
+inputPath = r'C:/Github-Projects/AdventOfCode/2022/Day4 - Camp Cleanup/input.in'
 
 def comparePairs(firstPairRange: list[int], SecondPairRange: list[int]):
     maxFirstPair = firstPairRange[firstPairRange.index(max(firstPairRange))]
